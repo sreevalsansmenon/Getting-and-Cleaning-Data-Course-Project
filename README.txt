@@ -2,7 +2,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-See run_analysis.R for code information
+See run_analysis.R for CODE (https://github.com/sreevalsansmenon/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
